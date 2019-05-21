@@ -1,0 +1,9 @@
+.greeter__root--blSjr {
+  -webkit-transform: translateY(20px);
+          transform: translateY(20px);
+  text-align: center;
+  font-size: 24px;
+  background: #eee;
+}body {
+  color: red;
+}
