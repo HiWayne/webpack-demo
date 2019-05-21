@@ -8,6 +8,7 @@
   /src: 开发时的源文件所在目录
   /public: 模板HTML所在目录
   /dist: 打包路径
+  package.json: 整个项目的配置文件，可以声明项目名称、描述、版本，声明相关依赖，设置script命令等
   .babelrc: babel配置文件，也可以options:{}的形式直接写在webpack配置文件的babel处
   postcss.config.js: postcss-loader配置文件
 ```
