@@ -12,9 +12,6 @@ import christmas_tree from "../../public/images/christmas_tree.png";
 import snowflake from "../../public/images/snowflake.png";
 import snowman from "../../public/images/snowman.png";
 import socks from "../../public/images/socks.png";
-import Konva from "konva";
-
-console.log(Konva)
 
 const images = [cute_fencing, cute_tom, cute_jerry];
 

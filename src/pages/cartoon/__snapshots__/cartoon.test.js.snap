@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cartoon 1`] = `
+<section
+  className="container"
+>
+  <div
+    className="content"
+  >
+    这是cartoon的
+    文字
+  </div>
+  <div />
+  <p
+    style={
+      Object {
+        "fontFamily": "keAi1",
+        "fontSize": "24px",
+      }
+    }
+  >
+    猫和老鼠
+  </p>
+  <p
+    style={
+      Object {
+        "fontFamily": "keAi2",
+        "fontSize": "36px",
+      }
+    }
+  >
+     —— 汤姆和杰瑞
+  </p>
+  <p
+    style={
+      Object {
+        "fontFamily": "keAi3",
+        "fontSize": "48px",
+      }
+    }
+  >
+    可可爱爱的朋友
+  </p>
+  <div
+    className="flex-row mt-50"
+  >
+    <img
+      className="image"
+      src="test-file-stub"
+    />
+    <img
+      className="image"
+      src="test-file-stub"
+    />
+    <img
+      className="image"
+      src="test-file-stub"
+    />
+  </div>
+  <div
+    className="flex-row mt-50"
+  >
+    <img
+      className="icon"
+      src="test-file-stub"
+    />
+    <img
+      className="icon"
+      src="test-file-stub"
+    />
+    <img
+      className="icon"
+      src="test-file-stub"
+    />
+    <img
+      className="icon"
+      src="test-file-stub"
+    />
+    <img
+      className="icon"
+      src="test-file-stub"
+    />
+    <img
+      className="icon"
+      src="test-file-stub"
+    />
+    <img
+      className="icon"
+      src="test-file-stub"
+    />
+    <img
+      className="icon"
+      src="test-file-stub"
+    />
+  </div>
+</section>
+`;
